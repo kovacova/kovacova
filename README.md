@@ -14,14 +14,12 @@ _Tech Stack:_ React, Node JS, AWS Amplify, Python, SQLite3
 
 ## Skills and Expertise
 
-**Programming Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, JavaScript, HTML, CSS
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark), SQL, JavaScript, HTML, CSS
 
 **Machine Learning:** Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
 
 **Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK, SpaCy, Gensim, Vader), Computer Vision (YOLO, OpenCV, Face Recognition, TensorFlow), Reinforcement Learning (Open AI Gym), GANs 
 
-**Data Visualization:** Altair, Matplotlib, Seaborn, Plotly, Pandas
+**Cloud:** AWS (SageMaker, Redshift, EC2, S3, Amplify, EMR, Route 53, Billing), GCP 
 
-**Cloud:** AWS (SageMaker, Amplify, EC2, S3, Route 53, Billing), GCP 
-
-**Frameworks & Other:** React, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda 
+**Frameworks & Other:** Apache Spark, Docker, React, Flask, Plotly Dash, Bootstrap, WordPress, Adobe Photoshop & InDesign, Git, Anaconda 
