@@ -1,6 +1,6 @@
 # Hi, I'm [Tina](https://www.linkedin.com/in/kovacova/) 👋
 
-I am a Machine Learning Engineer, Data Scientist and Entrepreneur. I'm most in my element solving data problems and doing mentoring work, with extensive experience at high-growth startups - currently at [Pathrise](https://www.pathrise.com/) (YC W18) formerly at [Lambda School](https://lambdaschool.com/) (YC S17). I am also an experienced Manager and Digital Marketer. 
+I am a Machine Learning Engineer, Data Scientist and Entrepreneur. I'm most in my element solving data problems and doing mentoring work, with extensive experience at high-growth startups - currently at [Pathrise](https://www.pathrise.com/) (YC W18) formerly at [Bloom Institute of Tech](https://lambdaschool.com/) (YC S17). I am also an experienced Manager and Digital Marketer. 
 
 ## Current Projects (WIP)
 
