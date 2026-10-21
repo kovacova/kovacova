@@ -12,9 +12,9 @@ I build LLM systems that hold up in production: retrieval, evaluation, guardrail
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Visual Search RAG with GenAIOps**](https://github.com/kovacova/genai-msft-w14-visual-rag-mlflow) | Image-to-product search: GPT-4o captions an uploaded image, embeddings retrieve similar catalog items. Includes prompt-injection and PII guardrails, hallucination checks, and an evaluation pipeline for relevance and coherence. | Azure OpenAI, Azure AI Search, ChromaDB, MLflow, Azure Monitor, Docker |
+| [**Visual Search RAG with GenAIOps**](https://github.com/kovacova/visual-search-rag-genaiops) | Image-to-product search: GPT-4o captions an uploaded image, embeddings retrieve similar catalog items. Includes prompt-injection and PII guardrails, hallucination checks, and an evaluation pipeline for relevance and coherence. | Azure OpenAI, Azure AI Search, ChromaDB, MLflow, Azure Monitor, Docker |
 | [**Self-stopping Minecraft server on AWS**](https://github.com/kovacova/minecraft-server) | Infrastructure as code for a game server that shuts itself down after 15 idle minutes, backs up on every stop, has no SSH port, and starts from a Discord slash command that verifies Ed25519 signatures. | Terraform, EC2 Graviton, Lambda, API Gateway, S3, SSM |
-| [**ML pipeline CI/CD: churn prediction**](https://github.com/kovacova/msaip-industry-webinar) | Training-to-endpoint pipeline that deploys a churn model to a managed online endpoint from GitHub Actions, with idempotent create-or-update deployment. | Azure ML, GitHub Actions, MLflow, scikit-learn |
+| [**ML pipeline CI/CD: churn prediction**](https://github.com/kovacova/azureml-churn-cicd) | Training-to-endpoint pipeline that deploys a churn model to a managed online endpoint from GitHub Actions, with idempotent create-or-update deployment. | Azure ML, GitHub Actions, MLflow, scikit-learn |
 | [**LLMOps: monitoring, CI/CD and governance**](https://github.com/kovacova/gen-ai-msft-w14-monitoring-cicd-gov) | Teaching walkthrough of taking a RAG app from prototype to an observable, governed service. | Prompt Flow, Azure AI Foundry, ACR, App Service |
 
 ## Highlights
