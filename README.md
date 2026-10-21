@@ -1,47 +1,34 @@
-# Hi, I'm [Tina](https://www.linkedin.com/in/kovacova/) 👋
+# Tina Kovacova
 
-I’m a 🇨🇦-based Generative AI / LLM Engineer and Data Scientist with experience across EdTech, Marketing, Music, and Gaming industries.
+**Generative AI / LLM Engineer · Data Scientist** · Canada (open to remote)
 
-I’m most in my element when solving intricate data problems, building safe, friendly, and resilient systems — and helping people grow. 💜
+I build LLM systems that hold up in production: retrieval, evaluation, guardrails, and the CI/CD and monitoring around them. Six years in data science and ML, ten in total across EdTech, marketing, music and gaming. I also teach LLMOps and MLOps to working professionals and mentor data scientists.
 
-Always open to new ideas, teams, and collaborations — if something I’ve shared resonates, please don’t hesitate to [reach out](https://www.linkedin.com/in/kovacova/)!
+[LinkedIn](https://www.linkedin.com/in/kovacova/) · [kovacova.ca](https://kovacova.ca) · [Kaggle](https://www.kaggle.com/tinakovacova) · tina@kovacova.ca
 
-## Summary & Professional Highlights 
+---
 
-- **Data Scientist** with 6+ years of experience spanning analytics, engineering, **generative AI, and LLMs** — with a focus on revenue optimization, growth strategy, fraud detection, and user behavior modeling. 
-- Third-party **contractor for Google** (YouTube & Google Search — Czechia Ad Safety and Moderation) and **Apple** (Apple Music Canada — Recommender annotation, evaluation, and editorial review).
-- Contributed to the deployment of a production-grade **automotive voice assistant** (NLP/NLU) for the Slovak market. 
-- Early-career **founder** in the education sector, with 5+ years of successful operations and leadership.
-- With 10+ years of combined experience, I now support YC-backed founders, CEOs, and CTOs with **data strategy, modeling, and infrastructure**.
-- **Data mentor** at [Kaggle](https://www.kaggle.com), [Pathrise](https://www.pathrise.com) (YC W18), and [BloomTech](https://www.bloomtech.com) (YC S17); where the goal is never just *data work* — but making **smarter, more truthful decisions**, and building **safe, friendly, and resilient systems** that hold up in production. 🩵
+## Featured work
 
-## Projects & Communities
+| Project | What it is | Stack |
+|---|---|---|
+| [**Visual Search RAG with GenAIOps**](https://github.com/kovacova/genai-msft-w14-visual-rag-mlflow) | Image-to-product search: GPT-4o captions an uploaded image, embeddings retrieve similar catalog items. Includes prompt-injection and PII guardrails, hallucination checks, and an evaluation pipeline for relevance and coherence. | Azure OpenAI, Azure AI Search, ChromaDB, MLflow, Azure Monitor, Docker |
+| [**Self-stopping Minecraft server on AWS**](https://github.com/kovacova/minecraft-server) | Infrastructure as code for a game server that shuts itself down after 15 idle minutes, backs up on every stop, has no SSH port, and starts from a Discord slash command that verifies Ed25519 signatures. | Terraform, EC2 Graviton, Lambda, API Gateway, S3, SSM |
+| [**ML pipeline CI/CD: churn prediction**](https://github.com/kovacova/msaip-industry-webinar) | Training-to-endpoint pipeline that deploys a churn model to a managed online endpoint from GitHub Actions, with idempotent create-or-update deployment. | Azure ML, GitHub Actions, MLflow, scikit-learn |
+| [**LLMOps: monitoring, CI/CD and governance**](https://github.com/kovacova/gen-ai-msft-w14-monitoring-cicd-gov) | Teaching walkthrough of taking a RAG app from prototype to an observable, governed service. | Prompt Flow, Azure AI Foundry, ACR, App Service |
 
-Selected case studies and experiments coming soon — many involve LLMs, growth analytics, and real-world deployments.
+## Highlights
 
-You can find me on [Kaggle](https://www.kaggle.com/tinakovacova), at [kovacova.ca](https://kovacova.ca), or connect with me on [LinkedIn](https://www.linkedin.com/in/kovacova/).
+- Contractor for **Google** (YouTube and Search ad safety, Czechia), **Apple** (Apple Music Canada recommender evaluation and editorial review) and **Meta** (PII and privacy).
+- Helped ship a production **automotive voice assistant** (NLP/NLU) for the Slovak market.
+- Founded and ran an education business for 5+ years.
+- Advise YC-backed founders and CTOs on data strategy, modeling and infrastructure.
+- Data mentor at **Kaggle**, **Pathrise** (YC W18) and **BloomTech** (YC S17).
 
-## Technical Skills and Expertise
+## Skills
 
-**Languages & Core Skills:**  
-Python, SQL, JavaScript, JSGF, HTML, CSS
-
-**Generative AI & LLMs:**  
-OpenAI, Google & Anthropic APIs, LangChain, RAG, Prompt Engineering, Fine-Tuning (LoRA, QLoRA, PEFT), Vector DBs, Model Customization & Evaluation, Agents, Multi-Chain / MCP Tool Use
-
-**Machine & Deep Learning:**  
-Transformers, LLMs, Supervised & Unsupervised Learning, Neural Networks (CNNs, RNNs), NLP & NLU, Computer Vision  
-(Hugging Face, Kaggle Models, TensorFlow, Keras, PyTorch)
-
-**Cloud & Infrastructure:**  
-AWS (SageMaker, Redshift, RDS, Lambda, S3, EC2, Amplify, EMR, Route 53),  
-Google Cloud (Vertex AI, BigQuery, Cloud SQL), Docker, Anaconda
-
-**Data Engineering & Frameworks:**  
-PySpark, dbt, Django, Flask, React
-
-**Dashboards & Data Visualization:**  
-Metabase, Tableau, Looker, Plotly
-
-**Creative & Tools:**  
-Adobe Photoshop & InDesign
+**LLMs & GenAI:** RAG, agents and MCP tool use, prompt engineering, evaluation, fine-tuning (LoRA, QLoRA, PEFT), vector databases, guardrails · OpenAI, Anthropic and Google APIs, LangChain, Hugging Face
+**ML:** PyTorch, TensorFlow/Keras, scikit-learn, NLP/NLU, recommender systems, computer vision
+**MLOps / LLMOps:** MLflow, Azure ML, Prompt Flow, GitHub Actions, Docker, Terraform
+**Cloud:** AWS (SageMaker, Lambda, EC2, S3, Redshift, EMR), Azure (OpenAI, AI Search, AI Foundry), GCP (Vertex AI, BigQuery)
+**Data:** Python, SQL, PySpark, dbt · Tableau, Looker, Metabase, Plotly
