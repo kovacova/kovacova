@@ -34,11 +34,11 @@ Terraform for a game server that shuts itself down after 15 idle minutes, backs 
 
 ## Teaching
 
-I lead LLMOps and MLOps sessions for Great Learning programs, including *Generative AI for Business with Microsoft Azure*. Selected demos:
+I lead LLMOps and MLOps sessions for Great Learning programs, including *Generative AI for Business with Microsoft Azure*. All demos live in **[kovacova-teaching](https://github.com/kovacova-teaching)**; a few favourites:
 
-- [**Visual search RAG with GenAIOps**](https://github.com/kovacova/visual-search-rag-genaiops): GPT-4o image captioning + Azure AI Search, with prompt-injection and PII guardrails, MLflow tracing and evals
-- [**Azure ML churn pipeline with CI/CD**](https://github.com/kovacova/azureml-churn-cicd): training to managed endpoint, driven by GitHub Actions
-- [**LLMOps: monitoring, CI/CD and governance**](https://github.com/kovacova/gen-ai-msft-w14-monitoring-cicd-gov): taking a RAG app from prototype to a governed service
+- [**Visual search RAG with GenAIOps**](https://github.com/kovacova-teaching/visual-search-rag-genaiops): GPT-4o image captioning + Azure AI Search, with prompt-injection and PII guardrails, MLflow tracing and evals
+- [**Supply-chain LLMOps case study**](https://github.com/kovacova-teaching/genai-msft-week-13-llmops): plain-English questions become Python or SQL, checked by an LLM judge before they run
+- [**Azure ML churn pipeline with CI/CD**](https://github.com/kovacova-teaching/azureml-churn-cicd): training to managed endpoint, driven by GitHub Actions
 
 ## Highlights
 
