@@ -10,6 +10,14 @@ I build LLM products that hold up in production: retrieval, agents, evaluation, 
 
 ## What I'm building
 
+### The Hollow · local-first notes app for macOS · *private repo, demo on request*
+
+A native Swift app over a folder of Markdown files, with search, an "Up next" stream that ranks to-dos, mail, calendar, GitHub issues and failed workflow runs, and a chat that answers from your notes.
+
+- **MCP server** so AI agents can read notes, with tiered permissions set by launch flag: read-only, capture-only, or revision-fenced edits; nothing can delete
+- **Privacy by design:** Apple Intelligence and Ollama stay on-device; before any remote LLM call the app shows exactly what would be sent and waits for confirmation; retrieved notes are fenced as untrusted data
+- **Stack:** Swift, Python, JavaScript, n8n webhooks, ntfy push
+
 ### [MealThyme](https://mealthyme.ai) · AI nutrition coaching · [live app](https://mealthyme.ai) (one-click demo mode)
 
 Snap a meal and get a vision-model nutrition breakdown with coaching, or ask **Swan**, a streaming chat agent with memory and RAG over Health Canada and USDA guidance.
@@ -19,14 +27,6 @@ Snap a meal and get a vision-model nutrition breakdown with coaching, or ask **S
 - **Production ops:** per-tier rate limits and daily AI cost caps, admin dashboards for SRE metrics, costs, security logs and model evals, Sentry and PostHog
 - **Stack:** FastAPI, SQLAlchemy, React 19, TypeScript, Tailwind · AWS EC2 (Graviton), RDS, S3, SES, Amplify · Docker Compose, Traefik blue-green deploys, GitHub Actions
 - Self-hosted auth with OAuth and 2FA
-
-### The Hollow · local-first notes app for macOS · *private repo, demo on request*
-
-A native Swift app over a folder of Markdown files, with search, an "Up next" stream that ranks to-dos, mail, calendar, GitHub issues and failed workflow runs, and a chat that answers from your notes.
-
-- **MCP server** so AI agents can read notes, with tiered permissions set by launch flag: read-only, capture-only, or revision-fenced edits; nothing can delete
-- **Privacy by design:** Apple Intelligence and Ollama stay on-device; before any remote LLM call the app shows exactly what would be sent and waits for confirmation; retrieved notes are fenced as untrusted data
-- **Stack:** Swift, Python, JavaScript, n8n webhooks, ntfy push
 
 ### [Self-stopping Minecraft server on AWS](https://github.com/kovacova/minecraft-server)
 
