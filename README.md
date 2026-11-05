@@ -1,8 +1,10 @@
-# Tina Kovacova
+# Hi, I'm Tina 👋
 
-**Generative AI / LLM Engineer · Data Scientist** · Canada (open to remote)
+**Generative AI / LLM Engineer · Data Scientist · MBA** 
 
-I build LLM products that hold up in production: retrieval, agents, evaluation, guardrails, and the infrastructure and monitoring around them. Six years in data science and ML, ten in total across EdTech, marketing, music and gaming. I also teach LLMOps and MLOps to working professionals and mentor data scientists.
+What I care about: building AI that's honest about what it knows, respects your data, and still works when nobody is watching it. 
+
+I also teach Gen AI and LLMOps in executive programs at Great Learning, where we intentionally break a lot of systems, and then make them much stronger. It's my favourite vibe job :)  
 
 [LinkedIn](https://www.linkedin.com/in/kovacova/) · [kovacova.ca](https://kovacova.ca) · [Kaggle](https://www.kaggle.com/tinakovacova) · tina@kovacova.ca
 
@@ -34,11 +36,7 @@ Terraform for a game server that shuts itself down after 15 idle minutes, backs 
 
 ## Teaching
 
-I lead LLMOps and MLOps sessions for Great Learning programs, including *Generative AI for Business with Microsoft Azure*. All demos live in **[kovacova-teaching](https://github.com/kovacova-teaching)**; a few favourites:
-
-- [**Visual search RAG with GenAIOps**](https://github.com/kovacova-teaching/visual-search-rag-genaiops): GPT-4o image captioning + Azure AI Search, with prompt-injection and PII guardrails, MLflow tracing and evals
-- [**Supply-chain LLMOps case study**](https://github.com/kovacova-teaching/genai-msft-week-13-llmops): plain-English questions become Python or SQL, checked by an LLM judge before they run
-- [**Azure ML churn pipeline with CI/CD**](https://github.com/kovacova-teaching/azureml-churn-cicd): training to managed endpoint, driven by GitHub Actions
+Looking for course materials? All demos live in **[kovacova-teaching](https://github.com/kovacova-teaching)**
 
 ## Highlights
 
