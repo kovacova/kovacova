@@ -1,10 +1,16 @@
-# Hi, I'm Tina 👋
+# Hi, I'm Tina
 
 **Generative AI / LLM Engineer · Data Scientist · MBA** 
 
 What I care about: building AI that's honest about what it knows, respects your data, and still works when nobody is watching it. 
 
-I also teach Gen AI and LLMOps in executive programs at Great Learning, where we intentionally break a lot of systems, and then make them much stronger. It's my favourite vibe job :)  
+**Highlights:**
+- **NLP & NLU Engineering:** Built the first fully localized production voice assistant ever released in Slovakia at [CerenceAI](https://www.cerence.com/).
+- **Data Safety & Privacy:** Improved Ad safety, privacy and moderation for Google Search and YouTube in Czechia, plus PII and compliance work at Meta. I also tuned the tunes at [Apple Music Canada](https://music.apple.com/ca/).
+- **Product Data Science:** [Influence Mobile's](https://www.influencemobile.com/rewarded-play) first data scientist, leading DS work on a rewards app with 30M+ installs and $50M+ paid out to players.
+- **Mentorship:** Helping people grow and strengthen their data skillset at [Kaggle](https://www.kaggle.com/), Pathrise & [Canada Learning Code](https://www.canadalearningcode.ca/). 
+
+I also teach Gen AI and LLMOps in executive programs at [Great Learning](https://www.mygreatlearning.com/), where we intentionally break a lot of systems, and then make them much stronger. It's my favourite vibe job :)  
 
 [LinkedIn](https://www.linkedin.com/in/kovacova/) · [kovacova.ca](https://kovacova.ca) · [Kaggle](https://www.kaggle.com/tinakovacova) · tina@kovacova.ca
 
@@ -37,14 +43,6 @@ Terraform for a game server that shuts itself down after 15 idle minutes, backs 
 ## Teaching
 
 Looking for course materials? All demos live in **[kovacova-teaching](https://github.com/kovacova-teaching)**
-
-## Highlights
-
-- Contractor for **Google** (YouTube and Search ad safety, Czechia), **Apple** (Apple Music Canada recommender evaluation and editorial review) and **Meta** (PII and privacy).
-- Helped ship a production **automotive voice assistant** (NLP/NLU) for the Slovak market.
-- Founded and ran an education business for 5+ years.
-- Advise YC-backed founders and CTOs on data strategy, modeling and infrastructure.
-- Data mentor at **Kaggle**, **Pathrise** (YC W18) and **BloomTech** (YC S17).
 
 ## Skills
 
