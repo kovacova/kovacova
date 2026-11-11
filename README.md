@@ -18,13 +18,13 @@ I also teach Gen AI and LLMOps in executive programs at [Great Learning](https:/
 
 ## What I'm building
 
-### [The Hollow](https://hollow.kovacova.ca/) · 
+### [The Hollow](https://hollow.kovacova.ca/) · Privacy-first macOS personal AI and data hub
 
-A native Swift app over a folder of Markdown files, with search, an "Up next" stream that ranks to-dos, mail, calendar, GitHub issues and failed workflow runs, and a chat that answers from your notes.
+The Hollow has three layers - your notes in plain markdown, a series of third-party APIs connecting all your external data sources, and an LLM + MCP layer powered by on-device or remote ZDR models. 
 
-- **MCP server** so AI agents can read notes, with tiered permissions set by launch flag: read-only, capture-only, or revision-fenced edits; nothing can delete
+- **MCP server** AI agents can read notes, with tiered permissions set by launch flag: read-only, capture-only, or revision-fenced edits; nothing can delete
 - **Privacy by design:** Apple Intelligence and Ollama stay on-device; before any remote LLM call the app shows exactly what would be sent and waits for confirmation; retrieved notes are fenced as untrusted data
-- **Stack:** Swift, Python, JavaScript, n8n webhooks, ntfy push
+- **Stack:** Swift, Python, JavaScript, LLMs (OpenRouter, Ollama, Apple Intelligence)
 
 ### [MealThyme](https://mealthyme.ai) · AI nutrition coaching 
 
