@@ -18,7 +18,7 @@ I also teach Gen AI and LLMOps in executive programs at [Great Learning](https:/
 
 ## What I'm building
 
-### The Hollow · local-first notes app for macOS · *private repo, demo on request*
+### [The Hollow](https://hollow.kovacova.ca/) · 
 
 A native Swift app over a folder of Markdown files, with search, an "Up next" stream that ranks to-dos, mail, calendar, GitHub issues and failed workflow runs, and a chat that answers from your notes.
 
@@ -26,7 +26,7 @@ A native Swift app over a folder of Markdown files, with search, an "Up next" st
 - **Privacy by design:** Apple Intelligence and Ollama stay on-device; before any remote LLM call the app shows exactly what would be sent and waits for confirmation; retrieved notes are fenced as untrusted data
 - **Stack:** Swift, Python, JavaScript, n8n webhooks, ntfy push
 
-### [MealThyme](https://mealthyme.ai) · AI nutrition coaching · [live app](https://mealthyme.ai) (one-click demo mode)
+### [MealThyme](https://mealthyme.ai) · AI nutrition coaching 
 
 Snap a meal and get a vision-model nutrition breakdown with coaching, or ask **Swan**, a streaming chat agent with memory and RAG over Health Canada and USDA guidance.
 
@@ -42,12 +42,4 @@ Terraform for a game server that shuts itself down after 15 idle minutes, backs 
 
 ## Teaching
 
-Looking for course materials? All demos live in **[kovacova-teaching](https://github.com/kovacova-teaching)**
-
-## Skills
-
-**LLMs & GenAI:** RAG, agents and MCP, prompt engineering, evaluation, guardrails, fine-tuning (LoRA, QLoRA, PEFT), vector databases (pgvector, Azure AI Search, Chroma) · OpenAI, Anthropic and Google APIs, LangChain, Hugging Face
-**ML:** PyTorch, TensorFlow/Keras, scikit-learn, NLP/NLU, recommender systems, computer vision
-**Engineering:** Python, FastAPI, SQL, TypeScript, React, Swift
-**MLOps / Infra:** MLflow, Azure ML, GitHub Actions, Docker, Terraform, Traefik · AWS, Azure, GCP (Vertex AI, BigQuery)
-**Data:** PySpark, dbt, PostgreSQL · Tableau, Looker, Metabase, Plotly
+Looking for course materials? You can find all repos here: **[kovacova-teaching](https://github.com/kovacova-teaching)**
